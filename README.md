@@ -1,1 +1,2 @@
-# -E-Posta-G-nderim-Uygulamas-Geli-tirme-Projesi
+# PiData Eposta Gonderim Uygulaması
+projede ki kaynak kodlar ve ekran resimleri Pidata.pdf içerisindedir.
